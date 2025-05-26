@@ -1,3 +1,6 @@
+package Model;
+
+import Model.Subscription;
 import java.util.ArrayList;
 import java.util.List;
 
