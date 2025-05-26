@@ -1,3 +1,5 @@
+package Channel;
+
 public class EmailChannel implements CommunicationChannel {
     @Override
     public void send(String receiver, String message) {
