@@ -1,3 +1,5 @@
+package Model;
+
 public class Website {
     private String url;
 
