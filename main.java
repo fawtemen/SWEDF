@@ -1,3 +1,12 @@
+import Model.User;
+import Model.Subscription;
+import Model.Website;
+import Model.Notification;
+import Channel.CommunicationChannel;
+import Channel.EmailChannel;
+import Observer.Observer;
+
+
 public class main {
     public static void main(String[] args) {
         User user = new User(1, "Fateme", "fateme@gmail.com");
