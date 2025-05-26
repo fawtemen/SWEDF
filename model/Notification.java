@@ -1,3 +1,8 @@
+package Model;
+
+import Observer.Observer;
+import Channel.CommunicationChannel;
+import Model.User;
 import java.util.Date;
 
 public class Notification implements Observer {
