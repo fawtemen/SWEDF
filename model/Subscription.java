@@ -1,3 +1,9 @@
+package Model;
+
+import Observer.Observer;
+import Observer.Subject;
+import Model.Website;
+import Model.User;
 import java.util.ArrayList;
 import java.util.List;
 
